@@ -1,6 +1,10 @@
 # Primeiro-REPO (Em Desenvolvimento)
 
-``` aiai
+```
+
+Processo Para Subir no Github
+
+```
 // Processo //
 - //git clone https://github.com/Luckhaosbb/Primeiro-REPO.git
 - //pwd
