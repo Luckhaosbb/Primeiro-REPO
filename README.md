@@ -7,3 +7,4 @@ Teste
 //git add .\README.md
 //git commit -m "Texto do Processo do Git"
 //git push
+//(caso tenha outro usuario) cmdkey /delete:git:https://github.com
